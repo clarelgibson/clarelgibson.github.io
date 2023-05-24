@@ -5,17 +5,8 @@ description: Clare Gibson is a data architect, analyst, visualiser and storytell
 featured_image: /images/about.png
 ---
 
+![](/images/about-square.png){:width="400px" style="float: right; margin-left: 1em;"}
+
 ## Hi, I'm Clare!
 
-Welcome to my portfolio and blog. I am a data architect, analyst, visualiser and storyteller, currently working for [GSK](https://gsk.com). I'm mum to a small person and wife to a tall person. I love dancing, cycling, walking and gymming.
-
-*Dancing With Data* is a good way to describe my approach to data analysis. I start with a question in mind, find the data needed to answer it and iterate over and over again. Like rehearsing a dance, I change a step here and there and craft the analysis until it feels complete, polished and ready to perform.
-
-My data kitbag includes the following:
-
-- R (tidyverse)
-- SQL
-- PowerQuery
-- Tableau
-- PowerBI
-- GitHub Actions
+I am a clinical research data analytics professional, based in [Farnham](https://www.visitsurrey.com/explore/farnham-p196061), Surrey, UK. My business analytics products support decision making at [ICON](https://www.iconplc.com) and [GSK](https://gsk.com). I am currently working on products to understand and improve [diversity in clinical research](https://www.gsk.com/en-gb/innovation/trials/diversity-in-clinical-trials/). Outside of data analysis, I am mum to a small person, wife to a tall person and I love dancing, cycling, walking and gymming.
