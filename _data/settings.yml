@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Surrey Data Girl is a portfolio blog by Clare Gibson.
+  footer_tagline: Dancing With Data is a portfolio blog by Clare Gibson (@SurreyDataGirl).
 
 hero_settings:
   overlay_opacity: 0.8
