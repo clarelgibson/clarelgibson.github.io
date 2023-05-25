@@ -1,9 +1,9 @@
 basic_settings:
   site_title: Clare Gibson
-  favicon_image: /images/sdg-favicon-200px.png
+  favicon_image: /images/logo/sdg-favicon-200px.png
 
 header_settings:
-  logo_image: /images/sdg-logo-folly.png
+  logo_image: /images/logo/sdg-logo-folly.png
   logo_width: 100
 
 menu_settings:

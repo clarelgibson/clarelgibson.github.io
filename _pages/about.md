@@ -2,10 +2,10 @@
 title: About me
 subtitle: Clare Gibson is a data architect, analyst, visualiser and storyteller.
 description: Clare Gibson is a data architect, analyst, visualiser and storyteller.
-featured_image: /images/about.png
+featured_image: /images/about/about.png
 ---
 
-![](/images/about-square.png){:width="400px" style="float: right; margin-left: 1em;"}
+![](/images/about/about-square.png){:width="400px" style="float: right; margin-left: 1em;"}
 
 ## Hi, I'm Clare!
 
