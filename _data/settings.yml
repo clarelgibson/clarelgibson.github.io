@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Projects'
-      url: '/projects/'
+      url: '/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Dancing With Data is a portfolio blog by Clare Gibson (@SurreyDataGirl).
+  footer_tagline: Dancing With Data is a portfolio blog by Clare Gibson
 
 hero_settings:
   overlay_opacity: 0.8
