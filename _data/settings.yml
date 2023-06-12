@@ -73,9 +73,9 @@ color_settings:
   error_color: '#ff4f5c'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
-  title_font: '"Muli", sans-serif'
-  body_font: '"Muli", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Mohave:300,400,600,700" rel="stylesheet">'
+  title_font: '"Mohave", sans-serif'
+  body_font: '"Oxygen", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
