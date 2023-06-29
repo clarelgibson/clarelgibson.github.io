@@ -17,12 +17,19 @@ In a new [tutorial](https://github.com/clarelgibson/tableau-public-autorefresh/w
 * [Google Sheets](https://www.google.co.uk/sheets/about/) and [Google Drive](https://drive.google.com/drive/u/0/my-drive) for storing the clean data to be supplied to Tableau Public;
 * [Github Actions](https://docs.github.com/en/actions) for automatic deployment.
 
-The main steps of the tutorial are summarised below, but if you want full details I recommend checking out the tutorial itself [here](https://github.com/clarelgibson/tableau-public-autorefresh/wiki).
+## Who is this tutorial for?
+
+The tutorial uses dummy data generated in R to [illustrate the concepts](https://public.tableau.com/app/profile/clare.gibson/viz/TableauPublicAuto-Refresh/Dashboard) but the use cases are numerous. Any project that uses data that changes frequently (such as from an API) may find benefit from being able to tell Tableau to refresh automatically. I have used this method to build a [dashboard that tracks current inventory](https://public.tableau.com/app/profile/clare.gibson/viz/TeslaM3InventoryUK/Inventory) of used Tesla Model 3 cars in the UK by running a daily query against Tesla’s inventory API and pushing the outputs to a Google Sheet.
+
+The main steps of the tutorial are summarised below, but if you want full details I recommend checking out the tutorial itself.
 
 ## [Step 1: Set yourself up for success](https://github.com/clarelgibson/tableau-public-autorefresh/wiki/1.-Getting-started)
 
-You will need a GitHub repo to store code and manage your workflow
+To get started you will need:
 
-The tutorial uses dummy data generated in R to illustrate the method but the use cases are numerous. Any project that uses data that changes frequently (such as from an API) may find benefit from being able to tell Tableau to refresh automatically. I have used this method to build a [dashboard that tracks current inventory](https://public.tableau.com/app/profile/clare.gibson/viz/TeslaM3InventoryUK/Inventory) of used Tesla Model 3 cars in the UK by running a daily query against Tesla’s inventory API and pushing the outputs to a Google Sheet.
+* a [GitHub](https://github.com) account and repo to store code and manage your workflow. You can choose whether to start from scratch or fork [this one](https://github.com/clarelgibson/tableau-public-autorefresh);
+* An R coding environment including the [R language](https://www.r-project.org) and an IDE like [RStudio](https://posit.co);
+* a [Google](https://google.com/) account;
+* a [Tableau Public](https://public.tableau.com/) account.
 
-Final output from the tutorial can be found [here](https://public.tableau.com/app/profile/clare.gibson/viz/TableauPublicAuto-Refresh/Dashboard).
+## [Step 2: Set up Google Cloud Platform services](https://github.com/clarelgibson/tableau-public-autorefresh/wiki/2.-Set-up-GCP-services)
