@@ -1,5 +1,5 @@
 ---
-title: '6 steps to create an automated data pipeline for Tableau Public'
+title: '6 STEPS TO CREATE AN AUTOMATED DATA PIPELINE FOR TABLEAU PUBLIC'
 date: 2023-05-15 00:00:00
 description: Now you can automatically refresh source data in Tableau Public for free using R, Google Sheets and GitHub Actions.
 featured_image: '/images/blog/2023-05-15-tableau-pipeline/tableau-auto-dash.png'
@@ -17,13 +17,15 @@ In a new [tutorial](https://github.com/clarelgibson/tableau-public-autorefresh/w
 * [Google Sheets](https://www.google.co.uk/sheets/about/) and [Google Drive](https://drive.google.com/drive/u/0/my-drive) for storing the clean data to be supplied to Tableau Public;
 * [Github Actions](https://docs.github.com/en/actions) for automatic deployment.
 
-## Who is this tutorial for?
+## WHO IS THIS TUTORIAL FOR?
 
 The tutorial uses dummy data generated in R to [illustrate the concepts](https://public.tableau.com/app/profile/clare.gibson/viz/TableauPublicAuto-Refresh/Dashboard) but the use cases are numerous. Any project that uses data that changes frequently (such as from an API) may find benefit from being able to tell Tableau to refresh automatically. I have used this method to build a [dashboard that tracks current inventory](https://public.tableau.com/app/profile/clare.gibson/viz/TeslaM3InventoryUK/Inventory) of used Tesla Model 3 cars in the UK by running a daily query against Tesla’s inventory API and pushing the outputs to a Google Sheet.
 
 The main steps of the tutorial are summarised below, but if you want full details I recommend checking out the tutorial itself.
 
-## [Step 1: Set yourself up for success](https://github.com/clarelgibson/tableau-public-autorefresh/wiki/1.-Getting-started)
+## STEP 1: SET YOURSELF UP FOR SUCCESS
+
+<a href="https://github.com/clarelgibson/tableau-public-autorefresh/wiki/1.-Getting-started" class="button button--medium">Go To Step 1</a>
 
 To get started you will need:
 
@@ -32,4 +34,8 @@ To get started you will need:
 * a [Google](https://google.com/) account;
 * a [Tableau Public](https://public.tableau.com/) account.
 
-## [Step 2: Set up Google Cloud Platform services](https://github.com/clarelgibson/tableau-public-autorefresh/wiki/2.-Set-up-GCP-services)
+## STEP 2: SET UP GOOGLE CLOUD PLATFORM SERVICES
+
+<a href="https://github.com/clarelgibson/tableau-public-autorefresh/wiki/2.-Set-up-GCP-services" class="button button--medium">Go To Step 2</a>
+
+Using [Google Drive](https://drive.google.com/) to store your project data and [Google Cloud Platform](https://cloud.google.com/) for automated authentication means that your scripts can run on a schedule without you being physically present. The tutorial shows you how to set up a GCP account, create a new project and enable to Google Drive API in order to automate your workflow.

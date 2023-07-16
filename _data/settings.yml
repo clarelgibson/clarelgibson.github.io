@@ -73,10 +73,10 @@ color_settings:
   error_color: '#ff4f5c'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Mohave:wght@300;400;600;700&family=Oxygen:wght@300;400;700&display=swap" rel="stylesheet">'
-  title_font: '"Mohave", sans-serif'
-  body_font: '"Oxygen", sans-serif'
-  regular_weight: 400
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&family=Unica+One&display=swap" rel="stylesheet">'
+  title_font: '"Unica One", cursive'
+  body_font: '"Montserrat", sans-serif'
+  regular_weight: 300
   bold_weight: 600
   site_title:
     small_size: 25
@@ -136,7 +136,7 @@ font_settings:
     small_size: 14
     medium_size: 16
     large_size: 18
-    weight: 400
+    weight: 300
     letter_spacing: 0
     line_height: 1.6
   blockquote:
