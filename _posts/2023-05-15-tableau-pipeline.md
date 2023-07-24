@@ -1,5 +1,5 @@
 ---
-title: '6 STEPS TO CREATE AN AUTOMATED DATA PIPELINE FOR TABLEAU PUBLIC'
+title: '6 steps to create an automated data pipeline for Tableau Public'
 date: 2023-05-15 00:00:00
 description: Now you can automatically refresh source data in Tableau Public for free using R, Google Sheets and GitHub Actions.
 featured_image: '/images/blog/2023-05-15-tableau-pipeline/tableau-auto-dash.png'
