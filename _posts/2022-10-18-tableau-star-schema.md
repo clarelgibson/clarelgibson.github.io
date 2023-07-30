@@ -2,7 +2,7 @@
 title: 'Bulid a multi-fact star schema in Tableau in 5 easy steps'
 date: 2022-10-18 00:00:00
 description: Now you can apply dimensional data modelling techniques within Tableau.
-featured_image: '/images/blog/2023-05-15-tableau-pipeline/tableau-pipeline-cover.png'
+featured_image: '/images/blog/2022-10-18-tableau-star/tableau-star-cover.png'
 ---
 
 ![](/images/blog/2023-05-15-tableau-pipeline/tableau-auto-dash.png)
