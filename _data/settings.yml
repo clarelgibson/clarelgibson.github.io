@@ -21,15 +21,15 @@ footer_settings:
   footer_tagline: Dancing With Data is a portfolio blog by Clare Gibson
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.9
 
 post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/f/moqzzjgk'
+  form_action: 'https://formspree.io/f/xvojzkge'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
+  email_subject: 'Dancing with Data contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
