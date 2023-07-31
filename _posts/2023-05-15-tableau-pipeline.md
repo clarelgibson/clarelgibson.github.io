@@ -39,3 +39,27 @@ To get started you will need:
 <a href="https://github.com/clarelgibson/tableau-public-autorefresh/wiki/2.-Set-up-GCP-services" class="button button--medium">Go To Step 2</a>
 
 Using [Google Drive](https://drive.google.com/) to store your project data and [Google Cloud Platform](https://cloud.google.com/) for automated authentication means that your scripts can run on a schedule without you being physically present. The tutorial shows you how to set up a GCP account, create a new project and enable to Google Drive API in order to automate your workflow.
+
+## Step 3: Set up Google Drive services
+
+<a href="https://github.com/clarelgibson/tableau-public-autorefresh/wiki/3.-Set-up-Google-Drive-services" class="button button--medium">Go To Step 3</a>
+
+In this step you will set up a Google Drive directory and grant your newly created GCP service account access in order for your code to run automatically.
+
+## Step 4: Set up R script
+
+<a href="https://github.com/clarelgibson/tableau-public-autorefresh/wiki/4.-Set-up-R-script" class="button button--medium">Go To Step 4</a>
+
+This step walks you through setting up an R project using the `renv` package to create a reproducible environment, which is necessary for the GitHub Action to work later on. You will initialise `renv`, write and test your code and take a snapshot of your project.
+
+## Step 5: Set up GitHub Actions
+
+<a href="https://github.com/clarelgibson/tableau-public-autorefresh/wiki/5.-Set-up-GitHub-Actions" class="button button--medium">Go To Step 5</a>
+
+This step will teach you how to set up a GitHub Action (GHA) for your project, by initialising GHA in your project, building your YAML file, pushing to GitHub and testing the results.
+
+## Step 6: Set up Tableau Public dashboard
+
+<a href="https://github.com/clarelgibson/tableau-public-autorefresh/wiki/6.-Set-up-Tableau-Public-dashboard" class="button button--medium">Go To Step 6</a>
+
+The last step of the tutorial shows you how to connect to your data in Google Drive and enable the data syncing option that will keep your data updated once it is published to Tableau Public.
