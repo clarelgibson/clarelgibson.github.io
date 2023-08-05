@@ -2,7 +2,7 @@
 title: 'Build a multi-fact star schema in Tableau in 5 easy steps'
 date: 2022-10-18 00:00:00
 description: Now you can apply dimensional data modelling techniques within Tableau.
-featured_image: '/images/blog/2022-10-18-tableau-star/tableau-star-cover.png'
+featured_image: '/images/blog/2022-10-18-tableau-star/tableau-star-cover-canva.png'
 ---
 
 ![Five different hands arranged in a star shape](/images/blog/2022-10-18-tableau-star/tableau-star-front.jpg)
