@@ -1,12 +1,14 @@
 ---
 title: About me
-subtitle: Clare Gibson is a data architect, analyst, visualiser and storyteller.
-description: Clare Gibson is a data architect, analyst, visualiser and storyteller.
+subtitle: Data architect, analyst, visualiser and storyteller
+description: I am a data architect, analyst, visualiser and storyteller.
 featured_image: /images/about/about.png
 ---
 
-![](/images/about/about-square.png){:width="400px" style="float: right; margin-left: 1em;"}
+## My story
 
-## Hi, I'm Clare!
+I’m Clare and for as long as I can remember I have been a logical thinker who enjoys extracting meaning from raw information. This started as a passion for understanding foreign languages and experiencing different cultures, and developed into a career in data interpreting. My data products focus on the idea that good insights shouldn’t require explanation or expert knowledge, they should speak for themselves, and open the door to further questions.
 
-I am a clinical research data analytics professional, based in [Farnham](https://www.visitsurrey.com/explore/farnham-p196061), Surrey, UK. My business analytics products support decision making at [ICON](https://www.iconplc.com) and [GSK](https://gsk.com). I am currently working on products to understand and improve [diversity in clinical research](https://www.gsk.com/en-gb/innovation/trials/diversity-in-clinical-trials/). Outside of data analysis, I am mum to a small person, wife to a tall person and I love dancing, cycling, walking and gymming.
+I have 17 years of experience in the pharmaceutical and clinical research industry, as a data strategist working across commercial and finance, clinical operations, trial feasibility and trial diversity.
+
+Outside of my professional endeavours, I'm a mum to a small person, wife to a tall person and I love dancing, cycling, walking and gymming.

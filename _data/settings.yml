@@ -1,10 +1,10 @@
 basic_settings:
   site_title: Clare Gibson
-  favicon_image: /images/logo/sdg-favicon-200px.png
+  favicon_image: /images/logo/dt-favicon.png
 
 header_settings:
-  logo_image: /images/logo/sdg-logo-folly.png
-  logo_width: 100
+  logo_image: /images/logo/dt-logo.png
+  logo_width: 250
 
 menu_settings:
   menu_items:
@@ -18,10 +18,10 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Dancing With Data is a portfolio blog by Clare Gibson
+  footer_tagline: Data Translator is passionate about helping people unlock the stories within their data.
 
 hero_settings:
-  overlay_opacity: 0.9
+  overlay_opacity: 0.75
 
 post_settings:
   grid_spacing: 10
@@ -68,8 +68,8 @@ color_settings:
   text_light_color: '#7894b3'
   accent_color: '#ff4f5c'
   border_color: '#1282a2'
-  hero_background_color: '#405872'
-  hero_text_color: '#ffffff'
+  hero_background_color: '#c5d1de'
+  hero_text_color: '#202c39'
   error_color: '#ff4f5c'
 
 font_settings:
