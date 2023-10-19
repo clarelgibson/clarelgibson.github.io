@@ -2,7 +2,7 @@
 title: Credits
 subtitle: Clare Gibson is a data architect, analyst, visualiser and storyteller.
 description: Clare Gibson is a data architect, analyst, visualiser and storyteller.
-featured_image: /images/about/about.png
+featured_image: /images/index/birds.png
 ---
 
 # Blog cover image
