@@ -1,12 +1,12 @@
 ---
 title: 'The Seven Bins of St Helens - Part 2'
 date: 2023-11-16 00:00:00
-description: Is seven bins more effective than one? In the second installment of this blog series I assess how the data collection is going.
+description: Are seven bins more effective than one? In the second installment of this blog series I assess how the data collection is going.
 featured_image: '/images/blog/2023-11-03-seven-bins-part-1/seven-bins.png'
 ---
 
 ## Introduction
-[Last week](https://datatranslator.co.uk/blog/seven-bins-part-1) I wrote about a conversation I had with my mum about the number of different containers she has to sort her household recycling into. In my house we have just one recycling bin. It got me thinking: if you have more bins to sort your recycling into, do you end up recycling more overall?
+[Last week] I wrote about a conversation I had with my mum about the number of different containers she has to sort her household recycling into. In my house we have just one recycling bin. It got me thinking: if you have more bins to sort your recycling into, do you end up recycling more overall?
 
 ## How it's going?
 I am still in the process of gathering the data I need to answer this question. Some of it has been easy to find. This includes the data on waste collected and waste sent for recycling by each local authority, which is published by [DEFRA](https://www.wastedataflow.org/).
