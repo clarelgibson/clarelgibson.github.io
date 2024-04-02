@@ -1,7 +1,7 @@
 ---
 title: 'The Seven Bins of St Helens - Part 2'
 date: 2023-11-16 00:00:00
-description: Is seven bins more effective than one? In the second installment of this blog series I assess how the data collection is going.
+description: Are seven bins more effective than one? In the second installment of this blog series I assess how the data collection is going.
 featured_image: '/images/blog/2023-11-03-seven-bins-part-1/seven-bins.png'
 ---
 
