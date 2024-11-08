@@ -1,0 +1,15 @@
+technical:
+ - title: Tableau
+   level: Expert
+ - title: Power BI
+   level: Expert
+ - title: R (Tidyverse)
+   level: Intermediate
+ - title: Python
+   level: Beginner
+
+soft:
+ - title: Stakeholder management
+   level: Expert
+ - title: Product management
+   level: Intermediate
