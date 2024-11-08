@@ -1,20 +1,20 @@
 body {
-    color: #202c39;
+    color: black;
 }
 
 a {
-    color: #ff004f
+    color: #f09f00
 }
 
 a:visited {
-    color: #ff4e85
+    color: #da6900
 }
 
 h3,
 h3.archive__subtitle {
     clear: both;
-    color: #202c39;
-    font-family: "Oswald";
+    color: #103966;
+    font-family: "Waiting for the Sunrise";
     font-size: 1.35em;
 }
 
@@ -22,8 +22,8 @@ h3.archive__subtitle {
 
 h1,
 h2 {
-    color: #7894b3;
-    font-family: "Fira Sans Extra Condensed";
+    color: #00a8db;
+    font-family: "Rubik";
     font-weight: 700;
 }
 
@@ -32,7 +32,7 @@ p,
 .archive__item-title,
 a,
 body {
-    font-family: "Montserrat";
+    font-family: "Work Sans";
 }
 
 #main {
