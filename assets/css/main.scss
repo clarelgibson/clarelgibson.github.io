@@ -5,12 +5,23 @@ search: false
 
 @charset "utf-8";
 
+/* Colours */
 $link-color: #ff4f5c;
+$gray: #ab9bab;
+$text-color: #202c39;
+$primary-color: $gray;
 
 /* system typefaces */
 $serif      : Georgia, Times, serif;
 $sans-serif : "Fira Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
+
+/* sans serif typefaces */
+$sans-serif-narrow: "Lato", "Fira Sans Extra Condensed", $sans-serif !default;
+
+/* global font settings */
+$header-font-family : $sans-serif-narrow;
+$doc-font-size: 14px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

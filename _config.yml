@@ -26,7 +26,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : /assets/images/dt-favicon.png
 twitter_username         : # username
 github_username          : clarelgibson
-minimal_mistakes_skin    : dirt
+minimal_mistakes_skin    : default
 search                   : true
 
 # Build settings
@@ -67,30 +67,30 @@ author:
   avatar : "/assets/images/clare.png"
   bio    : "Making sense of the world through data."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://datatranslator.co.uk"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/clarelgibson/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/clarelgibson"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/surreydatagirl/"
+    - label: "Tableau Public"
+      icon: "fa-solid fa-chart-simple"
+      url: "https://public.tableau.com/app/profile/datatranslator/vizzes"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/clarelgibson/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/clarelgibson"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/surreydatagirl/"
 
 defaults:
   # _posts

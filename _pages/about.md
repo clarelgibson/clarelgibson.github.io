@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a Business Manager at [GSK](https://www.gsk.com) with nearly two decades in clinical research, blending my passion for data analytics with experience across clinical performance monitoring, trial diversity analytics, site intelligence and commercial insights. My career path was forged out of a love for both numbers and languages. Graduating with First Class Honours in Languages from [Heriot-Watt University](https://www.hw.ac.uk), a career pivot led me into the vibrant life sciences sector, where I discovered that data, like language, needs "translating" for real impact.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Now, I specialize in crafting data products that turn complex information into actionable insights for business leaders. I leverage tools like [R](https://www.r-project.org/), [SQL](https://www.w3schools.com/sql/), [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi), and [Tableau](https://www.tableau.com/) to bridge the gap between data and decision-making, using an agile, user-focused approach to bring clarity and value. My goal is to help organizations not just understand data, but to see its strategic potential.
