@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Clare Gibson"
   avatar : "/assets/images/clare.png"
-  bio    : "Making sense of the world through data."
+  bio    : "Making sense of the world one dataset at a time."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"

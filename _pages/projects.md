@@ -5,20 +5,23 @@ permalink: /projects/
 date: 2024-11-11
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/recycling.jpg
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/birds-wide.png
   actions:
     - label: "View on Tableau"
       url: "https://public.tableau.com/app/profile/datatranslator/vizzes"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo by Clare Gibson"
 excerpt: "This is a collection of data analysis projects I have worked on."
 intro: 
   - excerpt: "This is a collection of my projects."
 feature_row:
-  - image_path: /assets/images/seven-bins.png
-    alt: "Seven bins"
-    title: "Seven bins"
-    excerpt: "The seven bins of St Helens"
+  - image_path: /assets/images/this-is-me.png
+    alt: "Visual representation of the data analysis project into recycling systems in England"
+    title: "The Seven Bins of St Helens"
+    excerpt: "Do more bins lead to higher recycling rates?"
+    url: "https://public.tableau.com/app/profile/datatranslator/viz/BinBurdens/BinBurdens"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
@@ -30,38 +33,8 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
