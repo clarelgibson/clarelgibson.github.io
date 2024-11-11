@@ -13,7 +13,7 @@ tags:
   - tableau
 ---
 
-In this series, I'm using public data to answer a question about recycling in England. Within this project I'll be accessing [open government data](https://www.data.gov.uk) and exploring options to gather data that isn't yet stored in a public database ([crowdsourcing](https://www.clickworker.com/customer-blog/data-crowdsourcing/) vs [freedom of information request](https://www.gov.uk/make-a-freedom-of-information-request/how-to-make-an-foi-request)).
+In this series, I'm using public data to answer a question about recycling in England. In part two I look at how the project is progressing so far.
 
 #### Articles in this series
 
