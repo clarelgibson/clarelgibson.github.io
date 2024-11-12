@@ -17,9 +17,9 @@ In this series, I'm using public data to answer a question about recycling in En
 
 #### Articles in this series
 
-- [Seven Bins Part 1](/_posts/2023-11-03-seven-bins-part-1.md)
-- [Seven Bins Part 2](/_posts/2023-11-16-seven-bins-part-2.md)
-- [Seven Bins Part 3](/_posts/2024-02-10-seven-bins-part-3.md)
+- [Seven Bins Part 1]({% link _posts/2023-11-03-seven-bins-part-1.md %})
+- [Seven Bins Part 2]({% link _posts/2023-11-16-seven-bins-part-2.md %})
+- [Seven Bins Part 3]({% link _posts/2024-02-10-seven-bins-part-3.md %})
 
 ## Introduction
 [Last week](/_posts/2023-11-03-seven-bins-part-1.md) I wrote about a conversation I had with my mum about the number of different containers she has to sort her household recycling into. In my house we have just one recycling bin. It got me thinking: if you have more bins to sort your recycling into, do you end up recycling more overall?

@@ -17,9 +17,9 @@ In this series, I'm using public data to answer a question about recycling in En
 
 #### Articles in this series
 
-- [Seven Bins Part 1](/_posts/2023-11-03-seven-bins-part-1.md)
-- [Seven Bins Part 2](/_posts/2023-11-16-seven-bins-part-2.md)
-- [Seven Bins Part 3](/_posts/2024-02-10-seven-bins-part-3.md)
+- [Seven Bins Part 1]({% link _posts/2023-11-03-seven-bins-part-1.md %})
+- [Seven Bins Part 2]({% link _posts/2023-11-16-seven-bins-part-2.md %})
+- [Seven Bins Part 3]({% link _posts/2024-02-10-seven-bins-part-3.md %})
 
 ## Situation
 Last week I took my son to visit my parents for the half-term break. They live in St Helens, a town in Merseyside, north-west England. One evening while I was there, the conversation turned to the new recycling bag that the council had just issued to every household in the borough. Despite our Prime Minister's recent promise that [he will never allow 'seven bins' per household](https://www.mrw.co.uk/news/government-will-never-allow-seven-bins-per-house-says-sunak-20-09-2023/), it seems that is exactly what [St Helens Borough Council is doing](https://www.sthelens.gov.uk/article/9028/Recycling-Service-Change). The new 70L green bag that my parents received brings their total household waste receptacle count to exactly seven:
